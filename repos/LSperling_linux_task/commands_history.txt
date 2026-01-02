@@ -1,0 +1,1000 @@
+    2  cat script1.sh 
+    3  cat script2.sh 
+    4  nano script2.sh 
+    5  ls -al
+    6  rm -rf Dir1
+    7  rm -rf Dir2
+    8  cat count-ssh.txt 
+    9  rm -rf *.txt
+   10  rm -rf 2025-11-21/
+   11  ls -al
+   12  ./script2.sh 
+   13  ls -al
+   14  nano script2.sh 
+   15  ls -al 2025-12-01/
+   16  nano script2.sh 
+   17  rm -rf *.tx
+   18  ./script2.sh 
+   19  nano script2.sh 
+   20  ls -al
+   21  rm -rf *.txt
+   22  rm -rf 2025-12-01/
+   23  ls -al Test/
+   24  ./script2.sh 
+   25  pwd
+   26  ls -al
+   27  md5sum File-1.txt 
+   28  md5sum 2025-12-01/
+   29  nano check_objekt.sh
+   30  chmod +x check_objekt.sh 
+   31  ./check_objekt.sh 
+   32  nano check_objekt.sh
+   33  ./check_objekt.sh 
+   34  nano check_objekt.sh
+   35  ./check_objekt.sh /opt/101025-ptm/VAndreev
+   36  nano check_objekt.sh
+   37  ./check_objekt.sh 
+   38  clear 
+   39  ./check_objekt.sh 
+   40  nano check_objekt.sh
+   41  ./check_objekt.sh 
+   42  nano check_objekt.sh
+   43  pwd
+   44  cd ..
+   45  cd Artem_Ned/
+   46  ls -al
+   47  cat check_objekt.sh 
+   48  exit
+   49  cd /op/101025-ptm
+   50  cd opt/101025-ptm
+   51  pwd
+   52  cd /opt/101025-ptm/
+   53  ls -la
+   54  cd /Artem_Ned
+   55  cd Artem_Ned
+   56  nano script_Artem.sh
+   57  grep -ri "error" /var/log/ 2>/dev/null
+   58  grep -ri "error" /var/log/ 2>/dev/null | grep -v "binari"
+   59  grep -ri "error" /var/log/ 2>/dev/null | grep -v "binary"
+   60  nano script_Artem.sh
+   61  cat /etc/passwd
+   62  cat /etc/passwd 
+   63  cat /etc/passwd | awk -F ":" '{print $1 "  "$6}'
+   64  nano script_Artem.shy 
+   65  chmod +x script_Artem.shy 
+   66  ./script_Artem.shy 
+   67  clean
+   68  clear
+   69  cd /opt/101025-ptm/Artem_Ned
+   70  nano script2.sh
+   71  ls -la
+   72  cd 
+   73  cd /opt/101025-ptm/VAndreev
+   74  nano script2.sh
+   75  cd
+   76  cd /opt/101025-ptm/Artem_Ned
+   77  nano script2.sh
+   78  mv script_Artem.shy script_Artem.sh 
+   79  ls -la
+   80  nano check_object.sh
+   81  ls -la
+   82  nano check_object.sh
+   83  cd
+   84  /opt/101025-ptm/VAndreev/
+   85  nano check_object.sh
+   86  nano check_objekt.sh
+   87  cd /opt/101025-ptm/
+   88  cd /VAndreev
+   89   pwd
+   90  ls -la
+   91  cd VAndreev
+   92  nano check_objekt.sh
+   93  cd
+   94  cd /opt/101025-ptm/Artem_Ned/
+   95  rm check_object.sh
+   96  ls -la
+   97  rm check_object.shy
+   98  ls -la
+   99  nano check_objekt.sh
+  100  ls -la
+  101  nano check_objekt.sh
+  102  ./check_objekt.sh
+  103  nano check_objekt.sh
+  104  ./check_objekt.sh
+  105  nano check_objekt.sh
+  106  chmod -x check_objekt.sh 
+  107  ls - la
+  108  ls -la
+  109  chmod +x check_objekt.sh 
+  110  ls -la
+  111  ./check_objekt.sh
+  112  exit
+  113  cd /opt/101025-ptm/IgorF
+  114  nano IgorF_sript.sh
+  115  grep -r "error" /var/log
+  116  grep -ri "error" /var/log/2/dev/null
+  117  grep -ri "error" /var/log/2/dev/null | grep -v "binari"
+  118  grep -ri "error" /var/log/2/dev/null | grep -v "binary"
+  119  grep -ri "error" /var/log/2>/dev/null | grep -v "Binary"
+  120  grep -ri "error" /var/log/ 2>/dev/null | grep -v "Binary"
+  121  grep -re "error" /var/log/2>/dev/null | grep -v "Binary"
+  122  nano IgorF_script.sh
+  123  ls -al
+  124  nano IgorF_scriph.sh
+  125  cat /etc/passwd
+  126  cat /etc/passwd | awk -F":" '{print $1 "   "$6}'
+  127  ls -al
+  128  nano IgorF_script.sh
+  129  nano IgorF_scriph.sh
+  130  rm IgorF_script.sh
+  131  ls -al
+  132  rm IgorF_script.sh
+  133  chmod +x IgorF_scriph.sh
+  134  rm IgorF_sript.sh
+  135  bash IgorF_scriph.sh
+  136  ls -al
+  137  mv IgorF_scriph.sh IgorF_script.sh
+  138  ls -al
+  139  exit
+  140  cd /opt/101025-ptm/Kris/
+  141  nano script_Kris.sh
+  142  grep -r "error" /var/log/
+  143  grep -ri "error" /var/log/ 2>/dev/null  | grep -v "binari"
+  144  grep -ri "error" /var/log/ 2>/dev/null  | grep -v "binary"
+  145  grep -ri "error" /var/log/ 2>/dev/null  | grep -v "Binari"
+  146  clear
+  147  nano script_Kris.sh 
+  148  cat /etc/passwd
+  149  cat /etc/passwd | awk -F ':' '{print $1 "  "$6}'
+  150  nano script_Kris.sh 
+  151  clear
+  152  ls -al
+  153  chmod +x script_Kris.sh 
+  154  ls -al
+  155  ./script_Kris.sh 
+  156  nano script_Kris.sh 
+  157  clear
+  158  ls -al
+  159  nano script_1.sh
+  160  cd /opt/101025-ptm/ViacheslavS
+  161  nano script_SLAVA_001
+  162  grep -r "error" /var/log
+  163  grep -ri "error" /var/log/ 2>/dev/null | -v "binary"
+  164  grep -ri "error" /var/log/ 2>/dev/null | grep -v "binary"
+  165  grep -ri "error" /var/log/ 2>/dev/null | grep -v "Binary"
+  166  nano script_SLAVA_001
+  167  cet /etc/passwrt
+  168  cat /etc/passwrt
+  169  cat /etc/passwd
+  170  cat /etc/passwd | awk -F":" '{print$1 "  " ""$6"}'
+  171  nano script_SLAVA_001
+  172  chmod +x script_SLAVA_001 
+  173  ./script_SLAVA_001 
+  174  ls -la
+  175  nano script_SLAVA_001
+  176  cd /opt/101025-ptm/viktoria_mariella/
+  177  vi script_viktoria
+  178  grep -ri "error" /var/log/ 2>/dev/null |grep -v "binary"
+  179  grep -ri "error" /var/log/ 2>/dev/null |grep -v "Binary"
+  180  vi script_viktoria
+  181  cat /etc/passwd
+  182  cat /etc/passwd | awk -F":" '{print $1 "  " $6}'
+  183  vi script_viktoria
+  184  chmod +x script_viktoria 
+  185  ./ script_viktoria 
+  186  ./script_viktoria 
+  187  vi script_viktoria
+  188  cat ~/.bash_history 
+  189  vi script_2
+  190  ls -la
+  191  vi script2.sh
+  192  cd /opt/101025-ptm/viktoria_mariella/
+  193  ls -la
+  194  vi script_2
+  195  cd /opt/101025-ptm/VAndreev/
+  196  cd /opt/101025-ptm/VAndreev/2025-12-01/
+  197  ls -la
+  198  ..
+  199  ../
+  200  cd ../
+  201  ls -la
+  202  vi check_objekt.sh 
+  203  cd /opt/101025-ptm/PVitko
+  204  nano
+  205  grep -r "error" /var/log/
+  206  grep -ri "error" /var/log/
+  207  nano script_Phil
+  208  la m-al
+  209  ls -al
+  210  chmod +x script_Phil
+  211  tetris
+  212  cd
+  213  la -al
+  214  ls -al
+  215  cat myfirstbashscript.sh
+  216  cd /opt/101025-ptm/DmitryK
+  217  cd /opt/101025-ptm/
+  218  ls -al
+  219  cd/opt/10101025-ptm
+  220  cd
+  221  ls- a
+  222  ls -a
+  223  opt/101025-ptm
+  224  cd opt/101025-ptm/
+  225  ls -a
+  226  cd /opt/101025-ptm/DNarkevych
+  227  ls -a
+  228  cd /opt/190925-wdm/Svitlana_Mazorchuk/
+  229  nano permission_checker.sh
+  230  ls -al
+  231  ls -al scripts
+  232  ls -al test_file
+  233  cat test_file
+  234  ls -al /opt/190925-wdm/
+  235  ls -al /opt/190925-wdm/VAndreev
+  236  cd /opt/190925-wdm/VAndreev
+  237  cat check_mod.sh
+  238  cd /opt/190925-wdm/Svitlana_Mazorchuk/
+  239  ls -al
+  240  nano permission_checker.sh
+  241  ls -al
+  242  chmod +x /permission_checker.sh
+  243  chmod +x permission_checker.sh
+  244  ./permission_checker.sh 
+  245  nano permission_checker.sh 
+  246  ./permission_checker.sh 
+  247  ls -al
+  248  pwd
+  249  grep -r "error" /var/log/ 2>/dev/null
+  250  /var/log/ 2>/dev/null | grep -v "binari"
+  251  /var/log/ 2>/dev/null | grep -v "binary"
+  252  grep -ri "error" /var/log/ 2>/dev/null | grep -v "binary"
+  253  nano
+  254  cat /etc/passwd
+  255  cat /etc/passwd | awk -F ":" '{print $1 " "$6}'
+  256  nano
+  257  nano olegscript.sh
+  258  nano script2.sh
+  259  nano
+  260  ./script2.sh
+  261   ./Olegscript.sh
+  262  sudo ./Olegscript.sh
+  263  chmod +x Olegscript.sh
+  264   ./Olegscript.sh
+  265  sudo /root/
+  266  sudo ls -al /root/
+  267  sudo cat /root/backup.sh
+  268  clear
+  269  cat /etc/crontab
+  270  crontab --help
+  271  crontab -l
+  272  cat /opt/150825-wde/VMoisei/script-cron.sh
+  273  cat /opt/150825-wde/Andreev_V/test-cron.sh
+  274  ls -al /opt/150825-wde/Andreev_V/
+  275  cat /opt/150825-wde/Andreev_V/output.txt 
+  276  crontab -e
+  277  crontab -l
+  278  cd /opt/190925-wdm/VAndreev/
+  279  ls -al
+  280  nano cron-test.sh
+  281  chmod +x cron-test.sh 
+  282  ls -al
+  283  pwd
+  284  crontab -e
+  285  date
+  286  ls -al
+  287  date
+  288  ls -al DIR22/
+  289  rm -rf DIR22/
+  290  ls -al
+  291  date
+  292  ls -al
+  293  ls -al CronTest/
+  294  cat CronTest/File-13978.txt 
+  295  cat CronTest/File-6061.txt 
+  296  cat CronTest/File-9446.txt.txt 
+  297  cat CronTest/File-9446.txt
+  298  ls -al CronTest/
+  299  date
+  300  ls -al /etc/cron
+  301  ls -al /etc |grep cron
+  302  cat /etc/anacrontab 
+  303  sudo cat /etc/anacrontab 
+  304  ls -al
+  305  ls -al CronTest/
+  306  crontab -e
+  307  tar -cjvf arh-CronTest.tbz /opt/190925-wdm/VAndreev/CronTest 
+  308  ls -al
+  309  tar -tf arh-CronTest.tbz
+  310  rm -rf CronTest/
+  311  ls -al
+  312  tar -xvf arh-CronTest.tbz 
+  313  ls -al
+  314  ls -al opt/190925-wdm/VAndreev/CronTest/
+  315  ls -al
+  316  rm -rf opt/
+  317  ls -al
+  318  ps -ef | grep cron
+  319  crontab -lu root 
+  320  crontab -u root 
+  321  sudo crontab -u root -l
+  322  crontab -l
+  323  crontab -e
+  324  crontab -l
+  325  crontab -e
+  326  exit
+  327  nano my_script.sh
+  328  cd /opt/101025-ptm/
+  329  ls
+  330  cd Ruslan_Akhmetov/
+  331  nano my_script.sh
+  332  ls -l
+  333  ls
+  334  cat test.txt
+  335  cat ./my_script.shqy[A
+  336  ./my_script.sh
+  337  chmod +x my_script.sh 
+  338  ./my_script.sh
+  339  nano my_script.sh
+  340  ./my_script.sh
+  341  nano my_script.sh 
+  342  ./my_script.sh
+  343  nano my_script.sh 
+  344  ./my_script.sh
+  345  nano my_script.sh 
+  346  ./my_script.sh
+  347  nano my_script.sh 
+  348  ./my_script.sh
+  349  nano my_script.sh 
+  350  ls
+  351  cd ..
+  352  ls -l
+  353  cd 101025-ptm
+  354  ls -l
+  355  cd Ruslan_Akhmetov/
+  356  ls -l
+  357  nano permission_checker.sh
+  358  chmox +x permission_checker.sh
+  359  chmod +x permission_checker.sh
+  360  ls
+  361  ls -l
+  362  ./permission_checker.sh 
+  363  nano per
+  364  nano permission_checker.sh 
+  365  ./permission_checker.sh 
+  366  nano permission_checker.sh 
+  367  ./permission_checker.sh 
+  368  nano permission_checker.sh 
+  369  ./permission_checker.sh 
+  370  exit
+  371  cd /opt/
+  372  cd /opt/101025-ptm/
+  373  cd /opt/101025-ptm/DmytroK/
+  374  ls -al
+  375  vi > script_Dmitriy.sh
+  376  cd /opt/101025-ptm/DmytroK/
+  377  ls -al
+  378  chmod +x script_Dmitriy.sh 
+  379  ls -al
+  380  vi script_Dmitriy.sh 
+  381  cd /opt/190925-wdm/Ruslan/
+  382  nano task_Ruslan/sh
+  383  ls
+  384  chmod +x task_Ruslan.sh 
+  385  ./task_Ruslan.sh 
+  386  nano task_Ruslan.sh 
+  387  ./task_Ruslan.sh 
+  388  ls -l
+  389  crontab -e
+  390  mkdir /opt/190925-wdm/Ruslan/CronTask
+  391  nano task_Ruslan.sh 
+  392  ls -l
+  393  ./task_Ruslan.sh 
+  394  nano task_Ruslan.sh 
+  395  ./task_Ruslan.sh 
+  396  nano task_Ruslan.sh 
+  397  ./task_Ruslan.sh 
+  398  nano task_Ruslan.sh 
+  399  ./task_Ruslan.sh 
+  400  ls -l
+  401  cd CronTask/
+  402  ls
+  403  ls opt
+  404  ls -al
+  405  ls -al /opt
+  406  cd /opt/190925-wdm/Svitlana_Mazorchuk/
+  407  clier
+  408  clear
+  409  ls -al
+  410  cat permission_checker.sh 
+  411  exit
+  412  cd/opt/101010-ptm/
+  413  cd/opt/101025-ptm/
+  414  cd /opt/101025-ptm/
+  415  cd /opt/101025-ptm/DmytroK/
+  416  ls -al
+  417  rm script_Dmitriy.sh 
+  418  ls -al
+  419  vi script_Dmitriy.sh
+  420  ls -al
+  421  chmod +x script_Dmitriy.sh 
+  422  ls -al
+  423  ./script_Dmitriy.sh 
+  424  vi script_Dmitriy.sh 
+  425  grep -r "error" /var/log/
+  426  grep -ri "error" /var/log/ 2 >/dev/null
+  427  grep -ri "error" /var/log/ 2 >/dev/null  
+  428  clear
+  429  grep -ri "error" /var/log/ 2 >/dev/null | grep -v "binary"
+  430  grep -ri "error" /var/log/ 2 >/dev/null | grep -v "Binary"
+  431  pwd
+  432  ls -al
+  433  vi script_Dmitriy.sh 
+  434  grep -ri "error" /var/log/ 2grep -ri "error" /var/log/ 2>/dev/null | grep -v "Binary>/dev/null | grep -v "Binary"
+  435  grep -ri "error" /var/log/ 2>/dev/null | grep -v "Binary"
+  436  clear
+  437  vi script_Dmitriy.sh 
+  438  ./script_Dmitriy.sh 
+  439  ls al
+  440  ls -al
+  441  vi script_Dmitriy.sh 
+  442  cd /opt/190925-wdm/Ruslan/CronTask/
+  443  ls
+  444  cat 09_01.12.25.txt
+  445  cat 9_01.12.25.txt
+  446  crontab -l
+  447  cat 9_01.12.25.txt
+  448  tar -czvf Ruslan_archive.tar.gz CronTask task_Ruslan.sh
+  449  tar -czvf Ruslan_archive.tar.gz  CronTask
+  450  ls
+  451  cat Ruslan_archive.tar.gz 
+  452  crontab -e
+  453  ls
+  454  cd /opt/190925-wdm/Ruslan/CronTask/
+  455  tar -czvf Ruslan_archive1.tar.gz  CronTask
+  456  ls -l
+  457  rm Ruslan_archive.tar.gz  Ruslan_archive1.tar.gz 
+  458  ls
+  459  cd /opt/190925-wdm/Ruslan/
+  460  ls -l
+  461  tar -czvf Ruslan_archiv.tar.gz CronTask
+  462  ls -l
+  463  tar -tzvf Ruslan_archiv.tar.gz 
+  464  rm 10_01.12.25.txt
+  465  ls -l
+  466  rm 1_01.12.25.txt 2_01.12.25.txt 3_01.12.25.txt 4_01.12.25.txt 5_01.12.25.txt 6_01.12.25.txt
+  467  ls -l
+  468  rm 7_01.12.25.txt 8_01.12.25.txt 9_01.12.25.txt
+  469  ls -l
+  470  exit
+  471  cd /opt/101025-ptm/
+  472  ls-la
+  473  ls -la
+  474  ls -la | awk '{print $1}' 
+  475  ls -la | grep -v total | awk '{print $1}' 
+  476  cd viktoria_mariella/
+  477  vi permission_checker.sh 
+  478  chmod +x permission_checker.sh 
+  479  ./permission_checker.sh  
+  480  vi permission_checker.sh  
+  481  ./permission_checker.sh  
+  482  vi permission_checker.sh  
+  483  ./permission_checker.sh  
+  484  ./permission_checker.sh  
+  485  cd ../
+  486  ls -la
+  487  cd viktoria_mariella/
+  488  ls -la
+  489  cd ../
+  490  touch test_vika.sh
+  491  ls -la
+  492  cd viktoria_mariella/
+  493  ./permission_checker.sh  
+  494  cd ../
+  495  ls -la
+  496  vi permission_checker.sh  
+  497  cd viktoria_mariella/
+  498  ls -la
+  499  vi permission_checker.sh  
+  500  ls -la
+  501  pwd
+  502  mv permission_checker.sh   permission_checker.sh
+  503  ls -la
+  504  exit
+  505  cd /opt/190925-wdm/Svitlana_Mazorchuk/
+  506  nano task_Svitlana.sh
+  507  ls -al
+  508  chmod +x task_Svitlana.sh
+  509  ls -al
+  510  crontab -e
+  511  ls -al
+  512  cat task_Svitlana.sh 
+  513  ls -al
+  514  cat task_Svitlana.sh 
+  515  зцв
+  516  pwd
+  517  ls -l
+  518  cd 
+  519  cd /opt/101025-ptm
+  520  ls -al
+  521  touch test_maksymKrav.sh
+  522  cd test_maksymKrav.sh
+  523  ls -la
+  524  ls -la $DIR | grep -v total | awk '{print $1}'
+  525  cd /otp/101025-ptm/
+  526  cd /otp/101025-ptm
+  527  cd /opt/101025-ptm/
+  528  ls -al
+  529  cd /opt/101025-ptm/IgorF
+  530  ls -al
+  531  nano permission_checker.sh
+  532  cd /opt/101025-ptm
+  533  cd /opt/101025-ptm/IgorF
+  534  cd /opt/101025-ptm
+  535  ls -al
+  536  cd /opt/101025-ptm/IgorF
+  537  chmod +x permission_checker.sh
+  538  ls -al
+  539  ./permission_checker.sh
+  540  nano permission_checker.sh
+  541  ./permission_checker.sh
+  542  nano permission_checker.sh
+  543  ./permission_checker.sh
+  544  nano permission_checker.sh
+  545  ./permission_checker.sh
+  546  chmod +x permission_checker.sh
+  547  ./permission_checker.sh
+  548  nano permission_checker.sh
+  549  cd IgorF
+  550  ls -al
+  551  ./permission_checker.sh
+  552  nano permission_checker.sh
+  553  cd ../
+  554  rm test_IgorF
+  555  ls -al
+  556  nano test_IgorF.sh
+  557  ls -al
+  558  cd IgorF
+  559  ./permission_checker.sh
+  560  nano permission_checker.sh
+  561  chmod +x permission_checker.sh
+  562  ./permission_checker.sh
+  563  cd ../
+  564  ls -la
+  565  nano test2.sh
+  566  ls -la
+  567  cd IgorF
+  568  ./permission_checker.sh
+  569  cd ../
+  570  ls -al
+  571  ./test2.sh
+  572  ./permission_checker.sh
+  573  cd IgorF
+  574  ls -al
+  575  nano IgorF_script.sh
+  576  touch permission_checker.sh
+  577  ls -al
+  578  nano permission_checker.sh
+  579  cd ../
+  580  ls -al
+  581  cd IgorF
+  582  ls -al
+  583  nano permission_checker.sh
+  584  ./permission_checker.sh
+  585  nano permission_checker.sh
+  586  ./permission_checker.sh
+  587  ../
+  588  cd ../
+  589  ls -al
+  590  rm -rf test2.sh
+  591  ls -al
+  592  cd IgorF
+  593  ls -al
+  594  history
+  595  ../
+  596  cd ../
+  597  history
+  598  cd /opt/101025-ptm/
+  599  ls -al
+  600  cd Maksym-Kravchenko
+  601  nano permission_checker.sh
+  602  chmod +x permission_checker.sh
+  603  ls -la
+  604  ./permission_checker.sh
+  605  cd ../
+  606  ls -la
+  607  chmod +x permission_checker.sh
+  608  cd Maksym-Kravchenko
+  609  chmod +x permission_checker.sh
+  610  ./permission_checker.sh
+  611  cd ../
+  612  ls -la
+  613  nano permission_checker.sh
+  614  cd Maksym-Kravchenko
+  615  nano permission_checker.sh
+  616  chmod +x permission_checker.sh
+  617  ./permission_checker.sh
+  618  cd ../
+  619  ls -la
+  620  rm -rf test_vika.sh
+  621  ls -la
+  622  rm -rf test_maksymKrav.sh
+  623  rm -rf test_IgorF.sh
+  624  ls -la
+  625  cd /opt/101025-ptm/
+  626  ls -al
+  627  nano test_IgorF.sh
+  628  ls -al
+  629  nano test_IgorF
+  630  ls -al
+  631  ls -la
+  632  ls -la $DIR | grep -v total | awk '{print $1}'
+  633  cd strk
+  634  cd /opt/101025-ptm/strk/
+  635  nano permission_checker.sh
+  636  ls -la
+  637  chmod +x permission_checker.sh 
+  638  ls -la
+  639  ./permission_checker.sh
+  640  nano permission_checker.sh
+  641  ./permission_checker.sh
+  642  nano permission_checker.sh
+  643  ./permission_checker.sh
+  644  ls -p /opt/010825-ptm/strk | grep -v /
+  645  ls -p /opt/010825-ptm/strk | grep -v
+  646  ls -p /opt/010825-ptm/strk | grep -v /
+  647  ./permission_checker.sh
+  648  nano permission_checker.sh
+  649  ./permission_checker.sh
+  650  cd /opt/101025-ptm/DmytroK/
+  651  ls -al
+  652  ./script_Dmitriy.sh 
+  653  vi script_Dmitriy.sh 
+  654  cat /etc/passwd | awk -F":" '{print $1 "  " $6}'
+  655  clear
+  656  vi script_Dmitriy.sh 
+  657  ./script_Dmitriy.sh 
+  658  clear
+  659  vi script_Dmitriy.sh 
+  660  ./script_Dmitriy.sh 
+  661  ./script_Dmitriy.sh
+  662  clear
+  663  ls -al
+  664  ./script_Dmitriy.sh
+  665  clear
+  666  cd ..
+  667  ls -al
+  668  cd /opt/101025-ptm/VAndreev/
+  669  ls -al
+  670  vi script2.sh 
+  671  scp ec2-user@linux.itcareerhub.de:/opt/101025-ptm/VAndreev/script2.sh .
+  672  scp ec2-user@linux.itcareerhub.de:/opt/101025-ptm/VAndreev/script2.sh C:/Users/ICH/LinuxSavedFiles/
+  673  scp ec2-user@linux.itcareerhub.de:/opt/101025-ptm/VAndreev/script2.sh C:/Users/ICH/LinuxSavedFiles
+  674  scp ec2-user@linux.itcareerhub.de:/opt/101025-ptm/VAndreev/script2.sh ~C:/Users/ICH/LinuxSavedFiles/
+  675  scp ec2-user@linux.itcareerhub.de:/opt/101025-ptm/VAndreev/script2.sh .
+  676  ls -al
+  677  scp ec2-user@linux.itcareerhub.de:/opt/101025-ptm/VAndreev/script2.sh C:/Users/ICH/
+  678  scp ec2-user@linux.itcareerhub.de:/opt/101025-ptm/VAndreev/script2.sh C:\Users\ICHscp ec2-user@linux.itcareerhub.de:/opt/101025-ptm/VAndreev/script2.sh .
+  679  scp ec2-user@linux.itcareerhub.de:/opt/101025-ptm/VAndreev/script2.sh C:/Users/ICH/
+  680  scp ec2-user@linux.itcareerhub.de:/opt/101025-ptm/VAndreev/script2.sh ~/LinuxSavedFiles/
+  681  clear
+  682  cd ..
+  683  pwd
+  684  cd DmytroK/
+  685  ls -al
+  686  pwd
+  687  cd ..
+  688  cd VAndreev/
+  689  ls -al
+  690  vi script2.sh 
+  691  vi test.sh 
+  692  vi check_objekt.sh 
+  693  cd /opt/101025-ptm/DmytroK/
+  694  ls -al
+  695  vi permission_checker
+  696  chmod +x permission_checker 
+  697  ls -al
+  698  ./permission_checker 
+  699  vi permission_checker 
+  700  ./permission_checker 
+  701  clear
+  702  pwd
+  703  ls -al
+  704  mkdir test1
+  705  mkdir test2
+  706  mkdir test3
+  707  mkdir test4
+  708  mkdir test5
+  709  ls -al
+  710  clear
+  711  ls -al
+  712  vi permission_checker 
+  713  pwd
+  714  ./permission_checker 
+  715  vi permission_checker 
+  716  ./permission_checker 
+  717  ls -al
+  718  chmod -x myfirstbashscript.sh
+  719  ls -al
+  720  chmod -x script.sh 
+  721  chmod -x script_Dmitriy.sh 
+  722  ls -al
+  723  ./permission_checker 
+  724  ls -al
+  725  vi permission_checker 
+  726  ls -al
+  727  chmod -x script_Dmitriy.sh 
+  728  chmod -x script.sh 
+  729  chmod -x script_Dmitriy.sh 
+  730  ls -al
+  731  chmod -x myfirstbashscript.sh 
+  732  chmod -x file.txt
+  733  ls -al
+  734  clear
+  735  ls -al
+  736  ./permission_checker 
+  737  ./permission_checker 
+  738  ls -al
+  739  chmod -x myfirstbashscript.sh 
+  740  chmod -x script_Dmitriy.sh 
+  741  ls -al
+  742  chmod -x script.sh 
+  743  ls -al
+  744  vi permission_checker 
+  745  ./permission_checker 
+  746  chmod -x script.sh 
+  747  chmod -x script_Dmitriy.sh 
+  748  chmod -x myfirstbashscript.sh 
+  749  ls -al
+  750  vi permission_checker 
+  751  ls -la
+  752  ./permission_checker 
+  753  vi permission_checker 
+  754  ./permission_checker 
+  755  vi permission_checker 
+  756  ./permission_checker 
+  757  vi permission_checker 
+  758  ./permission_checker 
+  759  vi permission_checker 
+  760  ./permission_checker 
+  761  ls -al
+  762  vi permission_checker 
+  763  ./permission_checker 
+  764  pwd
+  765  ./permission_checker 
+  766  vi permission_checker 
+  767  cd /opt/190925-wdm/Svitlana_Mazorchuk/
+  768  ls -al
+  769  ./task_Svitlana.sh 
+  770  ls -al
+  771  crontab -e
+  772  ls -al
+  773  ls -l
+  774  crontab -e
+  775  nano task_Svitlana.sh 
+  776  cd /opt/190925-wdm/Svitlana_Mazorchuk/
+  777  pwd
+  778  ls -al
+  779  cat task_Svitlana.sh.save 
+  780  rm -r task_Svitlana.sh.save 
+  781  ls -al
+  782  cat task_Svitlana.sh 
+  783  nano task_Svitlana.sh 
+  784  crontab -e 
+  785  crontab -l
+  786  crontab -e
+  787  crontab -l
+  788  history
+  789  cat scr.txt 
+  790  history | tail -n 25 > scr.txt
+  791  cat scr.txt 
+  792  tar -czf task_Svitlana_archive.tar.gz 1_* 2_* 3_* 4_* 5_* 6_* 7_* 8_* 9_* 10_* scr.txt
+  793  ls -al
+  794  cat task_Svitlana_archive.tar.gz 
+  795  exit
+  796  cd /opt/101025-ptm/
+  797  cd DmytroK/
+  798  ls -al
+  799  vi permission_checker 
+  800  clear
+  801  ls -al
+  802  pwd
+  803  ./permission_checker 
+  804  clear
+  805  vi permission_checker 
+  806  ./permission_checker 
+  807  vi permission_checker 
+  808  ls -la $TARGET_DIR | grep -v total | awk '{print $1}'
+  809  ls -la
+  810  vi permission_checker 
+  811  ./permission_checker 
+  812  vi permission_checker 
+  813  vi perm_checker.sh
+  814  chmod +x perm_checker.sh 
+  815  ls -al
+  816  ./perm_checker.sh
+  817  ls -al
+  818  vi remove_permissions
+  819  ls -al
+  820  chmod +x remove_permissions 
+  821  ls -al
+  822  ./remove_permissions 
+  823  mv remove_permissions remove_permissions.sh
+  824  ls -la
+  825  mv permission_checker permission_checker.sh
+  826  ls -al
+  827  ./remove_permissions.sh 
+  828  ls -al
+  829  ./script.sh
+  830  mv perm_checker.sh main_permissions_checker.sh
+  831  chmod +x main_permissions_checker.sh 
+  832  ls -al
+  833  ./main_permissions_checker.sh 
+  834  pwd
+  835  ./main_permissions_checker.sh 
+  836  ls -al
+  837  зцв
+  838  pwd
+  839  pwd main_permissions_checker.sh 
+  840  clear
+  841  ls -al
+  842  ./remove_permissions.sh 
+  843  pwd
+  844  ./remove_permissions.sh 
+  845  vi remove_permissions.sh 
+  846  ./remove_permissions.sh 
+  847  chmod +x remove_permissions.sh 
+  848  ./remove_permissions.sh 
+  849  cd /opt/101025-ptm/IDenysova
+  850  vim permission_checker.sh
+  851  epv
+  852  ps /opt/101025-ptm
+  853  ps aux /opt/101025-ptm
+  854  ls -la /opt/101025-
+  855  cat /opt/101025-ptm/permission_checker.sh
+  856  vim permission_checker.sh
+  857  chmod +x permission_checker.sh 
+  858  ./permission_checker.sh 
+  859  vim permission_checker.sh 
+  860  ./permission_checker.sh 
+  861  vim permission_checker.sh 
+  862  ./permission_checker.sh 
+  863  vim permission_checker.sh 
+  864  ./permission_checker.sh 
+  865  vim permission_checker.sh 
+  866  ./permission_checker.sh 
+  867  ls -la /opt/101025-ptm
+  868  ls -la /opt/101025-ptm/*.sh
+  869  who
+  870  chmod -x /opt/101025-ptm/sshkeypract.sh
+  871  ls -la /opt/101025-ptm/*.sh
+  872  ./permission_checker.sh 
+  873  ls -la /opt/101025-ptm/*.sh
+  874  pwd
+  875  cat /opt/101025-ptm/permission_checker.sh
+  876  vim permission_checker.sh 
+  877  pwd permission_checker.sh 
+  878  exit
+  879  cd /opt
+  880  ls
+  881  cd /101025-ptm
+  882  cd /opt/101025-ptm
+  883  ls
+  884  cd /opt/101025-ptm/OKiriienko
+  885  nano permission_checker.sh
+  886  chmod +x permission_checker.sh
+  887  ./permission_checker.sh
+  888  scp ssh ec2-user@linux.itcareerhub.de:/opt/101025-ptm/OKiriienko/permission_checker.sh .
+  889  scp ssh ec2-user@linux.itcareerhub.de:/opt/101025-ptm/permission_checker.sh .
+  890  scp ec2-user@linux.itcareerhub.de:/opt/101025-ptm/OKiriienko/permission_checker.sh .
+  891  scp ec2-user@linux.itcareerhub.de:/opt/101025-ptm/OKiriienko/permission_checker.sh 
+  892  ls -al
+  893  scp ec2-user@linux.itcareerhub.de:/opt/101025-ptm/OKiriienko/permission_checker.sh 
+  894  y
+  895  scp ec2-user@linux.itcareerhub.de:/opt/101025-ptm/OKiriienko/permission_checker.sh C:\itcareerhub . 
+  896  exit
+  897  cat /opt/101025-ptm/OKiriienko/permission_checker.sh
+  898  cd /opt/101025-ptm
+  899  cd /opt/101025-ptm/OKiriienko
+  900  cat /opt/101025-ptm/OKiriienko/permission_checker.sh
+  901  cat < /opt/101025-ptm/OKiriienko/permission_checker.sh
+  902  cat > /opt/101025-ptm/OKiriienko/permission_checker.sh
+  903  ls
+  904  cat permission_checker.sh
+  905  cat < permission_checker.sh
+  906  cat  ./permission_checker.sh
+  907  cat  .permission_checker.sh
+  908  nano permission_checker.sh
+  909  cat  permission_checker.sh
+  910  ls -al
+  911  ls -lh
+  912  ls -lh /opt/101025-ptm/OKiriienko/permission_checker.sh
+  913  ls -lh /opt/101025-ptm/OKiriienko/Oleg_permission_checker.sh
+  914  exit
+  915  ls -lh /opt/101025-ptm/OKiriienko/permission_checker.sh
+  916  nano /opt/101025-ptm/OKiriienko/permission_checker.sh
+  917  ls -lh /opt/101025-ptm/OKiriienko/permission_checker.sh
+  918  exit
+  919  cd /opt/101025-ptm/VAndreev/
+  920  ls -al
+  921  cat script2.sh
+  922  cat check_objekt.sh 
+  923  cd ..
+  924  cd /opt/101025-ptm/SMyshynskyi/
+  925  mkdir LernScripts
+  926  ls -al
+  927  cd /opt/101025-ptm/SMyshynskyi/LernScripts/
+  928  nano -l info.sh
+  929  ls -al
+  930  chmod +x info.sh
+  931  ls -al
+  932  ./info.sh 
+  933  nano -l info.sh
+  934  ./info.sh 
+  935  nano -l info.sh
+  936  ./info.sh 
+  937  nano -l info.sh
+  938  ./info.sh 
+  939  nano -l info.sh
+  940  ./info.sh 
+  941  nano -l cycle.sh
+  942  ./cycle.sh 
+  943  chmod +x cycle.sh 
+  944  ./cycle.sh 
+  945  ls -al
+  946  nano -l cycle.sh
+  947  ./cycle.sh 
+  948  ls -al
+  949  rm -rf file_*.txt
+  950  ls -al
+  951  nano -l while-script.sh
+  952  chmod +x while-script.sh 
+  953  ./while-script.sh 
+  954  ls -al
+  955  cd ..
+  956  ls -al
+  957  cd /LernScripts/
+  958  cd /opt/101025-ptm/SMyshynskyi/LernScripts/
+  959  ls -al
+  960  cd ..
+  961  cd /opt/101025-ptm/SMyshynskyi/LearnScripts/
+  962  ls -al
+  963  cd ..
+  964  rm -rf /opt/101025-ptm/SMyshynskyi/LearnScripts/
+  965  ls -al
+  966  mv /opt/101025-ptm/SMyshynskyi/LernScripts/ /opt/101025-ptm/SMyshynskyi/LearnScripts/
+  967  ls -al
+  968  cd /opt/101025-ptm/SMyshynskyi/LearnScripts/
+  969  ls -al
+  970  nano -l while-script.sh
+  971  ./while-script.sh 
+  972  ls -al
+  973  cd /opt/101025-ptm/SMyshynskyi/LearnScripts/txtdir/
+  974  ls -al
+  975  cd /opt/101025-ptm/SMyshynskyi/LearnScripts/txtdir/
+  976  ls -al
+  977  cd /opt/101025-ptm/SMyshynskyi/LearnScripts/txtdir/2025-12-01/
+  978  ls -al
+  979  nano -l while-script.sh
+  980  ls -al
+  981  cd ..
+  982  nano -l check-object.sh
+  983  chmod +x check-object.sh 
+  984  ./check-object.sh 
+  985  ls -al
+  986  exit
+  987  cd /opt/190925-wdm/
+  988  ls -la
+  989  cd /opt/190925-wdm/LSperling
+  990  touch task_LSperling.sh
+  991  chmod +x task_LSperling.sh
+  992  export EDITOR=nano
+  993  #!/bin/bash
+  994  WORKDIR="/190925-wdm/LSperling"
+  995  cd "$WORKDIR" || exit 1
+  996  cd /opt/190925-wdm/LSperling
+  997  nano task_LSperling.sh
+  998  cd /opt/190925-wdm/LSperling
+  999  ./task_LSperling.sh
+ 1000  ls
+ 1001  history > commands_history.txt
